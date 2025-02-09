@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-PH" class="theme light classic">
+<head>
+    <meta charset="utf-8">
+    <title>Canva: Visual Suite for Everyone</title>
+    <meta name="" content="anon_home"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://static.canva.com/web/3cbfc3b7116afc7d.ltr.css" rel="stylesheet" integrity="sha512-lglC1Wq53fOJkaEJcWMHXVLwNrBWC7pPLewNyuaU3FaGcJt0MMRvIJc9lYdxJ6ohbYo5W9kG+Azt9vcHFqjypQ==" crossorigin="anonymous">
+    <!-- Add the line-clamp fix CSS -->
+    <link href="css/line-clamp-fix.css" rel="stylesheet">
+    <style>
+	/* ...existing font-face definitions... */
+    </style>
+</head>
